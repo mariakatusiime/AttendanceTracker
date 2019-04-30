@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">CHPAttendance</string>
+    <string name="title_activity_login">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="id">id</string>
+    <string name="user_details">User details</string>
+    <string name="submit">Submit</string>
+    <string name="hint_user_details">User_details</string>
+
+    <string name="huser_details">User_details</string>
+    <string name="scan">Scan</string>
+    <string name="text_result_default">Please focus camera</string>
+    <string name="select_a_branch">Select a branch</string>
+    <string name="kiira">Kiira</string>
+    <string name="budadiri">Budadiri</string>
+
+    <string-array name="branches_array">
+        <item>Choose a branch</item>
+        <item>Kira</item>
+        <item>Masajja</item>
+        <item>Kayunga</item>
+        <item>Budadiri</item>
+        <item>Mayuge</item>
+        <item>Kakiri</item>
+        <item>Iganga</item>
+        <item>Bwaise</item>
+        <item>Mityana</item>
+        <item>Masaka</item>
+        <item>Kyotera</item>
+        <item>Mafubira</item>
+        <item>Kalangala</item>
+        <item>Mbale</item>
+        <item>Magale</item>
+        <item>Mukono</item>
+        <item>Kayunga</item>
+        <item>Kyengera</item>
+        <item>Wobulenzi</item>
+        <item>Lira</item>
+        <item>Tula</item>
+    </string-array>
+</resources>
